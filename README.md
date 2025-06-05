@@ -33,9 +33,3 @@ From tasks can CRUD operation also I add input validator.
 
 - Can add/check/delete todos
 - Filter todos 
-
----
-
-## 🪄 License
-
-MIT — do whatever you want (but show me your Logomoji sometime!)
