@@ -25,11 +25,12 @@ From tasks can CRUD operation also I add input validator.
 ## Screenshot
 
 ![Home Screen](/todo/assets/pic-1.png)
-![Demo validator](/todo/assets/pic-1.png)
+![Demo validator](/todo/assets/pic-2.png)
 
 ---
 
 ## Features
 
 - Can add/check/delete todos
-- Filter todos 
+- Filter todos
+- Input validator
