@@ -24,8 +24,8 @@ From tasks can CRUD operation also I add input validator.
 
 ## Screenshot
 
-![Home Screen](/mobile/todo/assets/pic-1.png)
-![Demo validator](/mobile/todo/assets/pic-1.png)
+![Home Screen](/todo/assets/pic-1.png)
+![Demo validator](/todo/assets/pic-1.png)
 
 ---
 
